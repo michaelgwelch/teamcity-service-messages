@@ -53,6 +53,8 @@ tsm.message({ text: 'Finished step 2'});
 * `compilationStarted`/`compilationFinished`
 * `enableServiceMessages`/`disableServiceMessages`
 * `importData`
+* `inspectionType`,
+* `inspection`,
 * `message`
 * `progressMessage`
 * `progressStart`/`progressFinish`
@@ -144,4 +146,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-[tcd]: http://confluence.jetbrains.com/display/TCD8/Build+Script+Interaction+with+TeamCity
+[tcd]: https://confluence.jetbrains.com/display/TCD10/Build+Script+Interaction+with+TeamCity
